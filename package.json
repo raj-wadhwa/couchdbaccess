@@ -1,0 +1,20 @@
+{
+  "name": "couchdbaccess",
+  "version": "1.0.0",
+  "description": "this sample app access the couchdb",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.7.2",
+    "grunt": "^1.0.1",
+    "node-couchdb": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj",
+  "license": "ISC"
+}
